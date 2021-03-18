@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6d21204-09e7-4bb6-9991-60d63955f60c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programa Aluno/Aluno.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programa Aluno/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programa Aluno/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
-    </list>
+    <list default="true" id="c6d21204-09e7-4bb6-9991-60d63955f60c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
