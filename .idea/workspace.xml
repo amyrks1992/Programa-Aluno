@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6d21204-09e7-4bb6-9991-60d63955f60c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Programa Aluno-Prof.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Programa Aluno.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno-Prof/Aluno.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno-Prof/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno-Prof/Pessoa.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Professor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programa Aluno/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programa Aluno/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Programa Aluno/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Programa Aluno/Pessoa.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aluno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pessoa.java" afterDir="false" />
@@ -73,5 +71,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
